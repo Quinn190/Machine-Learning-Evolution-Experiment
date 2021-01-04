@@ -2,7 +2,7 @@
 
 
 ##Example Gif format
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![alt text](https://github.com/Quinn190/Machine-Learning-Evolution-Experiment/blob/[branch]/image.jpg?raw=true)
 
 
 So this is a project I started developing after being intrigued by [General AI?].
