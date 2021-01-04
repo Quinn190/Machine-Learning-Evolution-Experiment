@@ -2,7 +2,7 @@
 
 
 ##Example Gif format
-![](/creature-vision-image.jpg)
+![](/creature-vision-image.JPG)
 
 
 So this is a project I started developing after being intrigued by [General AI?].
